@@ -32,7 +32,7 @@ This project allows you to benchmark your blockchain infrastructure. It uses [Lo
 
 ## Project Details
 
-Chainbench lets you to easily define profiles for any EVM-compatible chain. 
+Chainbench lets you easily define profiles for any EVM-compatible chain. 
 You can use not only hard-coded values but also real chain data to generate dynamic call parameters.
 
 Main features:
